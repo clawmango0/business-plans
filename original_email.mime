@@ -1,0 +1,118 @@
+Delivered-To: clawmango0@gmail.com
+Received: by 2002:a05:622a:aa4b:20b0:506:f5b5:2b74 with SMTP id u11-n2csp2156820qtu;
+        Sun, 22 Feb 2026 16:31:00 -0800 (PST)
+X-Received: by 2002:a05:6512:1153:b0:59d:d799:b7a0 with SMTP id 2adb3069b0e04-5a0ed8a6722mr2213572e87.36.1771806660789;
+        Sun, 22 Feb 2026 16:31:00 -0800 (PST)
+ARC-Seal: i=2; a=rsa-sha256; t=1771806660; cv=pass;
+        d=google.com; s=arc-20240605;
+        b=L2zXtbHZN92U+cjZA1BFLCLuLbpq8iGOaF/4IaIdMnJzx6m9dmuucU1zyveogS5zBf
+         ek4qOCIinFJZqmzpTxFcwreSYw+ZROSqLFzPGfaS/iW3SgQTTa9eHzBnrVCIFmcONPPH
+         aNpH8tqfVDtfIzmyQDJYRcItwl+xnkHXn3v5vn85S3E3uiiaH+OsWp2u0PrWAH/4Q1p6
+         7nD59BNa2YpPdMpMFlEtAOjNjLWEizVNinx3FsVsGJkyXQu/hQNhD0Y4B+CH7Jhng8qv
+         MsvCcHrfp2osrQENdRTSLOhaebYOx5PnV3Iape0XHXXOGYtXp+M8C6P4YP5Z4rBEmTj6
+         lxbg==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=vuBI1Fz8Wt58becA3h8LJ+8lpcT1JUtGG/bhVXjPSXI=;
+        fh=cZw/czpqmkpM6dh7BH5ObDyc3Tntg9hN6nmsY6Z7Z+Y=;
+        b=XXDLv/I185vtD4TzamSbamCIx+sXbP1vs8JmrP6mkbZmlwKIaiBfF3VtajX3a1UwUJ
+         ZUaSsH0mF0UPeBpDtekKeKKIIJgkEP5w75MTFVkOe3zvZlSK+Q/PO8fcYeAHwTtvXc3C
+         RMAaNAG0KXEq47OdMPzURG7A83oSRMz3Bk/0y+P9IHMuN3q0wVBevCnNQvl73Z0pmO6y
+         NUqtBjX2fS0CfJhH7190YD9sASkdZqX7nPrruIeEFYC3VbhkS7Dz+ZBNQMqwNawq6y68
+         4iwryfCr0VPgC5gOABSQcHj6j1AP42EjowFeILh3oL+Gn8P6uJOm1l4RM/MZUBeyye4F
+         4hHQ==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20230601 header.b=hGrVQXhN;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of ian.aloysious.kelly@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=ian.aloysious.kelly@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;
+       dara=pass header.i=@gmail.com
+Return-Path: <ian.aloysious.kelly@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id 2adb3069b0e04-5a0eeb13210sor252194e87.6.2026.02.22.16.31.00
+        for <clawmango0@gmail.com>
+        (Google Transport Security);
+        Sun, 22 Feb 2026 16:31:00 -0800 (PST)
+Received-SPF: pass (google.com: domain of ian.aloysious.kelly@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20230601 header.b=hGrVQXhN;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of ian.aloysious.kelly@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=ian.aloysious.kelly@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;
+       dara=pass header.i=@gmail.com
+ARC-Seal: i=1; a=rsa-sha256; t=1771806660; cv=none;
+        d=google.com; s=arc-20240605;
+        b=LfjsE/EMirDNDBZrZd5fowq3pBWsp/nucBWlutOfKxchQlTSOVnUnRJS5cR7yasdgt
+         GlRt7eh7WFtHUjBIsAOcnmAPQnTQlvS/uaI1zXuJqm0iQFL3AH8yoaMYLaGR8CZqv1lp
+         8EJ/FCH1jOUzr3ienY0IkJdjPcGrxIfIbhdAeyxGeaStsVpIds16JB58fvXkKgMtWbZr
+         rhHOXUx+aizsH2IKdiTvNtoqSpCJ9dhTdhf5R0we/kg+fEhHfLZwCQONRrxd+obHj70y
+         SgwVGUfaPYSSNZDfQAlw/SPzFalp654sxcFd8mMsfCDioEohw/cEz/1Bmk7DKIE/TlnM
+         20jQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=vuBI1Fz8Wt58becA3h8LJ+8lpcT1JUtGG/bhVXjPSXI=;
+        fh=cZw/czpqmkpM6dh7BH5ObDyc3Tntg9hN6nmsY6Z7Z+Y=;
+        b=cDl6AHEPr+OrWsdcnTYzjkdq2kwgFfpQMDUV6FL3Nb7WhO+V2YHtIJhqC61gCE9yC4
+         eg01jihp3VBP3h2FMDzknmoS1XAmcB+fh/WX1alyQmGWaATQuXmpOzslSmEymp/dp/70
+         JWvyQK+WRilml035bl8+5ss9cqD7eXhUq0AC65xZnPkHIFnBRsYr+ke2eohcx/kWVeKx
+         AS0rw7bgYGasVdrMErQOzr9y+4pOkXA81BdELLY2GVRWfjQFALGieusmxf3KFyqkfj16
+         Jd6IpR/KGU2jZvtcgklkFZ1btPHKKt/rH2cusi56zMyHATWYDQCLYdPLvHnc+7A12clS
+         Y+Vw==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1771806660; x=1772411460; dara=google.com;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=vuBI1Fz8Wt58becA3h8LJ+8lpcT1JUtGG/bhVXjPSXI=;
+        b=hGrVQXhNve8jM6e1ccAnQmnJKLYs1SMK9YdbX40byKFJvXB+89ci4PgOSD6Nc7p5u4
+         tdgoGSE/FjFPMJWxjCb3qmRqB4EhV+djlihsh4eE8fLEhk2kkvgfU0a2dmHdpWqKgbq/
+         xeAyESCmuwENq3lowINf3jU9oPWR7QroPhJ6tZE8gYwvLFR3hTLycK83Unt+FvNLSGdO
+         xnXzCmYChcKyT87sAFijVDvwAnt4EmZtXhy+Xb6JEbtZzMgkUD1IpEvzX0HV+9B0oudK
+         FORSJzJG8Kvid1nLOraC1cz7uYmREqpZlNcF+uREOAHckXPRHu1xijvMw7hsNihIi+d0
+         nXrQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1771806660; x=1772411460;
+        h=to:subject:message-id:date:from:mime-version:x-gm-gg
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=vuBI1Fz8Wt58becA3h8LJ+8lpcT1JUtGG/bhVXjPSXI=;
+        b=bRkWH7FfWp6b8wcv4XOVRR8rKW1gwOYiaFkl/ahtCQ99h7xDteQBAGKWGoLG5rpXzS
+         NCJ+RmyXT9JYOA3LkU99n8keHJoSGCjMeXRyCZeL7cal8VpNRwhDLy2LGJqf/pUTHIHK
+         tvGVt8bR6eZVdpBuJ6a+QwKrXRwTlIQSBzMXOxZIzaymjqyT1DKqixVMuO8hyhT5YKLX
+         eWAF7Rfs/aQo4ClO1i+H+chhn6mMVYK8wYGoFOI8dckFNETQgC7wPuf4K+hAkxCpyy5H
+         Do8ZF2tnuz1K9rjD9nQufpRQfKGXaZHm6tc/ygnc2pYM2uKpO+cc9e9ioASAa3NTCVmy
+         0V/g==
+X-Gm-Message-State: AOJu0YzvuQ9RvDfiab77NWtdWPoPce0M33U0qE9R6dY1mFKQg6ol2Obt
+	BDkL5CRQgJTnZBuIchIvbP3kURa9HOGftAMXwDwEvWVYDkDQ6RAM8T9fe894dskEgjYwgLskIoD
+	mxlmy2BisbSsbc9RkckBm6DL/wPzzPzUkAA==
+X-Gm-Gg: AZuq6aKQsdBb3G5YqGe/OwVMln1Fo3Dv9jR0xH+ASn66jlktbhhLDe3Wca5IiXdos3c
+	ODG4dnrz3A4r4NifgKqAZkyHI0wkvta9DWdHzEDRowDvBKkHgQR8Qpk2XXd+db5wKwCiRNYair5
+	Us3qcUA3MD/yZ4d3Cc0M3ssxwED6NhFxA2x58RINqI9H+MvMh3HTvHEwCpMkOW0J1cIPVBl92Nv
+	j4r0vO2phx8tlOK2+5rcse3V2AV2PDATaj9ew2lIYbbmiuWwVJdBdDtoHxAxbImiRn8odt21WcF
+	IdJxtw==
+X-Received: by 2002:a05:6512:1112:b0:59e:6338:c832 with SMTP id
+ 2adb3069b0e04-5a0ed8771cdmr2160885e87.1.1771806660090; Sun, 22 Feb 2026
+ 16:31:00 -0800 (PST)
+MIME-Version: 1.0
+From: I Kelly <ian.aloysious.kelly@gmail.com>
+Date: Sun, 22 Feb 2026 18:30:49 -0600
+X-Gm-Features: AaiRm51N7yAUMPEz27qmMv3eQV3LO5ay_Syk7v9qFdR89sXoUWU3bZLdoHgyoQw
+Message-ID: <CAP7PP1EuSpEk6G8YbDQYCHxfHURMfuPAvsZ4Gb_fd-MOsXZfUA@mail.gmail.com>
+Subject: 
+To: "clawmango0@gmail.com" <clawmango0@gmail.com>
+Content-Type: multipart/alternative; boundary="00000000000095dfc1064b72e2ab"
+
+--00000000000095dfc1064b72e2ab
+Content-Type: text/plain; charset="UTF-8"
+
+https://x.com/i/status/2025609047014244660
+
+--00000000000095dfc1064b72e2ab
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://x.com/i/status/2025609047014244660">ht=
+tps://x.com/i/status/2025609047014244660</a>=C2=A0</div>
+
+--00000000000095dfc1064b72e2ab--
