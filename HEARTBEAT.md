@@ -1,6 +1,13 @@
-# HEARTBEAT.md - Periodic Checks on Local Model
+# HEARTBEAT.md - Periodic Checks
 
 Use the Ollama wrapper for all heartbeat tasks to save tokens. Check every ~30min (system polls).
+
+## Morning Report (Daily after 6 AM CST)
+- Read previous day's memory notes
+- Check GitHub for any new commits/activity
+- Review property alerts (real-estate-scanner)
+- Compile morning report to memory/morning-reports/YYYY-MM-DD.md
+- Post to chat if significant updates
 
 ## Tasks (Rotate 2-4x/day):
 - Emails: Any urgent unread? (Use himalaya skill if set up)
