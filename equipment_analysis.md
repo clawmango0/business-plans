@@ -581,3 +581,99 @@ Comprehensive equipment, software, and tools needed for each business idea. Pric
 
 *Last updated: February 2026*
 *Research conducted for Fort Worth, Texas market*
+
+---
+
+## 8. JUNK REMOVAL
+
+### Equipment
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Pickup truck | $5,000-15,000 | Used, reliable |
+| Trailer | $1,500-3,000 | 6x12 minimum |
+| Dollies, hand trucks | $200-400 | Essential |
+| Straps, ropes | $50-100 | |
+| Work gloves | $20-40 | |
+
+### Insurance
+
+| Coverage | Cost/year |
+|----------|----------|
+| Commercial auto | $1,500-3,000 |
+| General liability | $500-1,000 |
+| Workers comp | $500-1,500 |
+
+### Startup
+
+| Tier | Cost |
+|------|------|
+| Basic | $8,000 |
+| Pro | $15,000 |
+
+---
+
+## 9. LAWN CARE
+
+### Equipment
+
+| Item | Price |
+|------|-------|
+| Mower (commercial) | $1,500-4,000 |
+| Trimmer | $200-500 |
+| Blower | $200-400 |
+| Edger | $150-300 |
+| Trailer | $1,000-3,000 |
+| Weedeater | $150-300 |
+
+### Startup
+
+| Tier | Cost |
+|------|------|
+| Basic | $3,000 |
+| Pro | $8,000 |
+
+---
+
+## 10. HOUSE CLEANING
+
+### Supplies
+
+| Item | Price |
+|------|-------|
+| Vacuum (commercial) | $300-800 |
+| Mops, buckets | $50-100 |
+| Cleaning chemicals | $100-200 |
+| Microfiber cloths | $30-50 |
+| PPE | $30-50 |
+
+### Startup
+
+| Tier | Cost |
+|------|------|
+| Basic | $500 |
+| Pro | $1,500 |
+
+---
+
+## 11. WINDOW CLEANING
+
+### Equipment
+
+| Item | Price |
+|------|-------|
+| Extension poles | $100-300 |
+| Water-fed pole system | $300-1,500 |
+| Ladders | $200-600 |
+| Squeegees, T-bars | $50-100 |
+| Cleaning solution | $30-50 |
+
+### Startup
+
+| Tier | Cost |
+|------|------|
+| Basic | $500 |
+| Pro | $2,500 |
+
+---
+
