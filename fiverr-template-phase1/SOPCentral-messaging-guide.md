@@ -380,7 +380,20 @@ Most small businesses waste hours figuring things out on the fly. SOPs give you 
 
 ---
 
-# 7. Common Objections & Responses
+# ## 🎯 OUR DIFFERENTIATION
+
+**What competitors DON'T do:**
+- No implementation support
+- No tutorials
+- Just static templates
+
+**SOPCentral DOES:**
+- ✅ Custom tutorials for each template
+- ✅ Video walkthrough available
+- ✅ Implementation guidance included
+- ✅ Industry-specific focus
+
+**This justifies premium pricing!** & Responses
 
 ---
 
@@ -455,3 +468,36 @@ Most small businesses waste hours figuring things out on the fly. SOPs give you 
 ---
 
 *End of Guide — Ready to copy-paste to Fiverr!* 📋
+
+
+# 8. Video Tutorial Upsell (NEW!)
+
+## Video Walkthrough Extra
+
+**What it is:** A 10-15 minute Loom/video walking through the template, how to customize it, and best practices.
+
+**Why it works:**
+- Competitors don't offer this
+- High perceived value
+- Easy to deliver (Loom is free)
+
+**Pricing:**
+- Add-on: +5-50 for video tutorial
+- Premium tier: Include 1 video tutorial free
+
+**Script for offering:**
+> "Want me to walk you through how to use this template? I can record a quick 10-minute video showing exactly how to customize it for your business. It's like having me there in person. Add it for just 5."
+
+---
+
+## Revised Pricing Tiers (with video)
+
+| Gig | Basic | Standard | Premium |
+|-----|-------|----------|---------|
+| **SOP Templates** | 5 (no video) | 5 (+1 video) | 5 (+2 videos) |
+| **Client Intake** | 0 (no video) | 5 (+1 video) | 5 (+2 videos) |
+| **Proposals** | 5 (no video) | 5 (+1 video) | 25 (+2 videos) |
+
+---
+
+*Updated with video tutorial differentiation - March 2026*
