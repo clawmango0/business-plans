@@ -8,18 +8,24 @@
 ## Services & Pricing
 
 ### Residential
-| Service | Price Range |
-|---------|-------------|
-| Driveway | $150–$250 |
-| Sidewalk/Patio | $100–$150 |
-| Fence | $200–$350 |
-| House Siding | $250–$500 |
+| Service | Price Range | Notes |
+|---------|-------------|-------|
+| Driveway | $100–$175 | Lower than initial - DFW market competitive |
+| Sidewalk/Patio | $75–$150 | Min $150 for call-out |
+| Fence | $150–$300 | Per side |
+| House Siding | $200–$350 | Per side |
 
 ### Commercial
 | Service | Price Range |
 |---------|-------------|
-| Parking Lot | $500–$2,000 |
-| Building Exterior | $400–$1,500 |
+| Parking Lot | $300–$1,500 |
+| Building Exterior | $300–$1,200 |
+
+### Pricing Notes (March 2026 Research)
+- DFW market: $0.08-0.40 per sq ft
+- Hourly rate: $50-100/hr
+- Competition is HIGH - adjust prices to compete
+- Reddit: "2400 sq ft houses for $250" - saturated market
 
 ## Startup Costs
 | Item | Cost |
@@ -32,9 +38,12 @@
 | **Total** | **$3,900–$11,800** |
 
 ## Revenue
-- Part-time: $1,600–$2,000/week
-- Full-time: $3,000–$4,000/week
-- Net Profit: $5,000–$14,900/month
+- Part-time: $1,000–$1,500/week (adjusted for lower market prices)
+- Full-time: $2,000–$3,000/week
+- Net Profit: $3,500–$10,000/month
+
+**Note:** With lower DFW prices, expect ~30% less revenue than initially projected.
+**Strategy:** Volume over margin - aim for 4-5 jobs/week minimum.
 
 ## Tasks
 - [ ] Register LLC

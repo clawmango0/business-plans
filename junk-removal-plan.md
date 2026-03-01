@@ -51,8 +51,10 @@
 |------|-------|--------------|
 | Small load | $75-125 | Minor decluttering |
 | 1/4 truck | $125-175 | Garage cleanout |
-| 1/2 truck | $175-250 | Room/hallway |
-| Full truck | $300-400 | Whole house |
+| 1/2 truck | $175-225 | Room/hallway - confirmed ~$200 in DFW |
+| Full truck | $275-350 | Whole house |
+
+**DFW Market Check (March 2026):** Reddit confirms half truck ~$200 in Fort Worth area.
 
 ### Hourly Pricing (Alternative)
 - $50-75/hour for 2-person crew
