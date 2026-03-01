@@ -1,37 +1,77 @@
-# Twitter Learning - March 1, 2026
+# Twitter/X Learning - March 1, 2026
 
-## Accounts Followed
+## Accounts We Follow
 - @jimmyreeddotnet (DFW Real Estate Club)
 - @DfwClub
-- @LexLevinrad
+- @LexLevinrad (Real Estate Investing)
 - @LGallowayMBA
-- @DallasAptGP (Barrett Linburg - Opportunity Zones expert)
+- @DallasAptGP (Barrett Linburg - Opportunity Zones)
 - @TheClayClark (Thrivetime Show)
+- @realEstateTrent (StripMallGuy)
+- @girdley (Michael Girdley - Dallas tech/startup)
+- @mhp_guy (Chris Koerner - Mobile Home Parks)
 
 ---
 
-## Key Tweets (March 1, 2026)
+## Key Insights from Recent Tweets
 
-### 🔥 Barrett Linburg (@DallasAptGP) - OZ Expert
+### 🏢 Real Estate / Investing
 
-**OZ Myth Busted - 37% Cash-Out in 2 Years:**
-> "The biggest misconception about Opportunity Zones is that your money is locked up for ten years. We just closed a cashout refinance that will send about **37% of our investor's original equity back as a tax-free distribution. Within two years of closing.**"
+**@realEstateTrend (StripMallGuy):**
+- "If brokers know to send you deals first, that's the game-changer"
+- Discussion on deal flow and competitive advantages
 
-**OZ Capital Gains Requirement:**
-> "You must have a capital gain to be an OZ investor. Landing shortly in a place where there are likely more unrealized gains than anywhere else right now"
+**@girdley (Michael Girdley):**
+- "Girdley's Rule #319: Most people want black-and-white rules to follow in life. Unfortunately, the answer is usually 'it depends'"
+- Dallas-based tech/startup insights
 
-**AI in Real Estate:**
-> "A recent Keyway survey of 150 CRE pros showed only **8% of RE firms have AI-ready data infrastructure**"
-
----
-
-## Insights for Mr. Kelly
-
-1. **OZ Strategy Works**: Not locked 10 years - can refinance after 2 years and get 37% back
-2. **Need Capital Gains**: OZs require existing capital gains to invest (not just cash)
-3. **AI Opportunity**: 92% of CRE firms lack AI-ready infrastructure - competitive advantage possible
-4. **Unrealized Gains**: Barrett targeting areas with high unrealized gains (tech hubs?)
+**@mhp_guy (Chris Koerner):**
+- "If I were starting a home service biz today, the 3 I would NOT start are: Pressure washing, Window cleaning, Lawncare"
+- **Key insight:** Thanks to TikTok, 24-year-olds are competing with internet-savvy marketing
+- These markets are SATURATED
 
 ---
 
-*Compiled from X/Twitter - March 1, 2026*
+## 🎯 Key Takeaways for Our Business Decisions
+
+### 1. Pressure Washing - CONFIRM SATURATION ✅
+Chris Koerner (MHP guy, knows home services) says **NOT to start pressure washing** - market is too saturated thanks to TikTok marketers.
+
+This confirms our Reddit research: prices dropping, competition high.
+
+### 2. AI/Agent Tools - TRENDING 🔥
+- Arch Public - algorithmic tools for trading
+- Hands-free, automated, agentic executions
+- 2.9M+ views on posts about AI agents
+
+### 3. Deal Flow is KEY
+- "If brokers know to send you deals first, that's the game-changer"
+- Building relationships with brokers > than marketing
+
+### 4. "It Depends" Mentality
+- Michael Girdley: Don't look for black-and-white rules
+- Every deal/situation is different
+- Need to think critically, not follow formulas
+
+---
+
+## Who to Follow (New Suggestions)
+
+Based on who we're seeing in the feed:
+- @realEstateTrent (StripMallGuy) - Commercial real estate
+- @girdley - Dallas tech/startup scene
+- @mhp_guy - Mobile home parks (different niche)
+- @recostseg - Cost segregation (tax strategy)
+
+---
+
+## Action Items
+
+1. ❌ Reconsider pressure washing - too saturated
+2. ✅ Look into AI/agent tools for business
+3. ✅ Focus on broker relationships for deals
+4. ✅ Think critically, not formulas
+
+---
+
+*Research from Twitter/X - March 1, 2026*
