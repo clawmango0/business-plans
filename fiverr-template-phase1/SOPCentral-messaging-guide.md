@@ -490,13 +490,15 @@ Most small businesses waste hours figuring things out on the fly. SOPs give you 
 
 ---
 
-## Revised Pricing Tiers (with video)
+## Revised Pricing Tiers (with video + custom)
 
 | Gig | Basic | Standard | Premium |
 |-----|-------|----------|---------|
-| **SOP Templates** | 5 (no video) | 5 (+1 video) | 5 (+2 videos) |
-| **Client Intake** | 0 (no video) | 5 (+1 video) | 5 (+2 videos) |
-| **Proposals** | 5 (no video) | 5 (+1 video) | 25 (+2 videos) |
+| **SOP Templates** | $35 (template) | $55 (+1 video) | $95 (+1 video + custom) |
+| **Client Intake** | $40 (template) | $65 (+1 video) | $105 (+1 video + custom) |
+| **Proposals** | $45 (template) | $75 (+1 video) | $125 (+1 video + custom) |
+
+**Premium includes:** 1 video tutorial + 1 custom/bespoke template (anything not in catalog)
 
 ---
 
