@@ -8,6 +8,7 @@ _This file contains distilled knowledge worth keeping long-term. Updated periodi
 - Email: ian.aloysious.kelly@gmail.com
 - GitHub: github.com/clawmango0
 - Vibe: No-BS, fun, direct
+- Preferred: Updates immediately when something is learned - don't ask, just write it down
 
 ## About Me (Mango)
 - Name: Mango
@@ -15,52 +16,80 @@ _This file contains distilled knowledge worth keeping long-term. Updated periodi
 - Vibe: Casual, witty, direct, energetic
 - Emoji: 🥭
 
+## How Mr. Kelly Shares Links
+- Uses **Wevaite** (not WhatsApp) to send property URLs
+- Sends Zillow links directly
+- Sometimes includes rehab cost notes ("needs 15k in rehab")
+
 ## Core Rules
 - NO HALLUCINATIONS - only verified real data
 - When in doubt, ask before acting externally
 - Remember important things in writing, not mentally
 - Push significant work to GitHub for backup
+- **Update relevant files IMMEDIATELY when learning something new**
 
-## Ongoing Projects
+## Repository Structure (Cleaned Feb 2026)
+1. **real-estate-scanner** - Property analysis, scrapers, website
+   - Website: https://clawmango0.github.io/real-estate-scanner/
+2. **business-plans** - Business plans, Fiverr gigs, logos
+3. **business-research** (private) - Research files
+4. **template-business** - Notion/document templates
 
-### Real Estate Investment
-- Repo: github.com/clawmango0/real-estate-scanner
-- Tools: analyzer.py, comprehensive_analyzer.py, daily_checker.sh
-- Last alert check: Feb 24, 2026 (needs to run again)
-- Investment criteria: CoC > 8%, cash flow > $0, DSCR > 1.25
+## Real Estate Analysis Model
+- Down Payment: $100K
+- Interest Rate: 5.25%
+- Expenses: 50% rule
+- Property Taxes: 1.9% annually
+- Rent Data: SFR rents (25% premium over apartments)
 
-### Business Plans
-- Repo: github.com/clawmango0/business-plans
-- Ventures: pressure washing, truck rental, car rental, e-bike, ceramic coating, mobile detailing, event rental
+## SFR Rent Estimates (Fort Worth Area)
+| Zip | Area | SFR Rent |
+|-----|------|----------|
+| 76133 | Fort Worth SW | $1,761/mo |
+| 76137 | Crowley area | $1,700/mo |
+| 76248 | Keller | $2,277/mo |
+| 76123 | Crowley | $1,800/mo |
+| 76180 | NRH | $1,983/mo |
 
-### Templates
-- Repo: github.com/clawmango0/template-business
+## Property Analysis Results (Feb 2026)
+**Passing (3/9):**
+- 7652 Colorado Creek Ct (Duplex): +$246/mo
+- 8812 Texas Risinger Dr: +$211/mo
+- 4516 Rutland Ave (Duplex): +$127/mo
 
-## Key Learnings
-- Multi-unit properties (duplexes) and already-leased properties work for cash flow
-- SFRs mostly fail due to rent-to-price ratio
-- 50% rule + 1.9% property taxes + HOA for expenses
-- Market discount: 5% (30-59 days), 15% (60+ days)
+**Failing:** All SFRs at current prices - need ~$150K-$185K to work
 
-## Tools & Skills Configured
-- Email: himalaya (claws mango0@gmail.com)
+## Active Projects
+- Real estate investing (Fort Worth)
+- Fiverr template business
+- Business ideas: pressure washing, truck rental, ceramic coating
+
+## Equipment Analysis
+See `business-plans/equipment_analysis.md` for full equipment lists with pricing
+
+## Tools Configured
+- **Scraper Server**: Node.js on localhost:3000 - check via heartbeat
+- Email: himalaya
 - Twitter/X: xurl
-- WhatsApp: wacli (needs sync verification)
 - Weather: wttr.in
-- Local models: Ollama (tinyllama, qwen3)
+- Local models: Ollama
+- **ScraperAPI**: Set via environment variable `SCRAPER_API_KEY` (for Zillow)
+
+## Template Business
+- Built complete template packages for 6 business types
+- Templates include: Service Agreements, Checklists, HR Forms, Invoices, Quotes
+- Reddit research shows industry-specific bundles = market gap
+- Pricing: $5-15 single, $25-75 bundle, $75-150 industry bundle
+
+## Texas Regional Ideas
+- Pool service, solar cleaning, fence repair, irrigation all strong TX opportunities
 
 ## Partnership Approach
 - Proactive morning reports after 6 AM CST
-- Don't wait to be asked - pursue good ideas from previous conversations
-- Research and report on topics that could help Mr. Kelly
-- Run property scouts, analyze deals, suggest improvements
-- Be engaged, not just reactive
-
-## Preferences
-- Model: MiniMax-M2.5 (default), ollama/qwen3 for efficiency
-- Heartbeat: Check emails, calendar, weather, system 2-4x/day
-- Quiet hours: 23:00-08:00 unless urgent
+- Don't wait to be asked
+- Research and report on topics that could help
+- Run property scouts, analyze deals
 
 ---
 
-_Last updated: 2026-02-26_
+_Last updated: 2026-02-25_
