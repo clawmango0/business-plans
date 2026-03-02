@@ -337,7 +337,60 @@ Thanks so much!
 
 ---
 
-*Extended objection handling added: March 2026*
+## Handling High Volume / SLA Pressure
+
+When orders are piling up and we're falling behind, the agent should be EXTRA proactive:
+
+### Warning Signs:
+- More than 3 active orders
+- Delivery date approaching
+- Revision requests stacking up
+
+### Proactive Scripts:
+
+**When behind on delivery:**
+> "Hey! Just a quick heads up — I'm running a bit behind due to high demand. I'm working hard to get your template ready. Can I offer you a 1-day extension at no charge, OR a $10 Fiverr credit for your next order? I want to make this right for you."
+
+**When overwhelmed with revisions:**
+> "I appreciate your patience! I've got a few revisions in queue. To make up for the wait, I'm adding a bonus template at no charge. Should have your updated version to you within [X] hours."
+
+**When needing a buffer:**
+> "Hey! Due to high demand, I'm booking out about 5 days right now. If you need it sooner, I can offer rush delivery or we can schedule for when you're ready. What works best for you?"
+
+**When Fiverr messages are flooding in:**
+- Set auto-response: "Thanks for reaching out! I'm handling a high volume of orders right now. I'll personally get back to you within [X] hours. Hang tight!"
+- Prioritize: New orders first, then messages, then reviews
+
+### Volume Management Rules:
+
+| Order Volume | Response Time | Action |
+|-------------|--------------|--------|
+| 1-2 orders | 1 hour | Normal |
+| 3-5 orders | 2 hours | Be proactive, update early |
+| 6-10 orders | 4 hours | Offer extras, communicate delays |
+| 10+ orders | Same day | Cap new orders, communicate clearly |
+
+### SLA Protection:
+
+1. **Never promise what you can't deliver**
+2. **Under-promise, over-deliver**
+3. **Communicate BEFORE problems happen**
+4. **Offer something when behind** (bonus, credit, extension)
+5. **Know when to pause marketing** (if can't handle volume)
+
+### The "Falling Behind" Script:
+
+> "Hey [Name]! I owe you an apology — I'm running behind schedule due to higher than expected demand. I don't want to rush your template because quality matters. Here's what I can offer:
+> 
+> Option A: Get it by [new date] at no charge
+> Option B: Get it by [original date] + I'll include a bonus template free
+> Option C: Full refund, no hard feelings
+> 
+> What works best for you?"
+
+---
+
+*Extended with high-volume handling: March 2026*
 
 - Always mention video tutorial if purchased
 - Track which tier (Basic/Standard/Premium)
