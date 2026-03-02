@@ -1,66 +1,71 @@
-# Truck Research Report
+# Truck Research Report (UPDATED)
 
 *Compiled: March 1, 2026*
 
 ---
 
-## Work Trucks ($25-38K)
+## Light Trucks - Gas Only (2020-2023)
 
-### Best Options:
+### 1500 Series (Half-Ton)
 
-| Truck | Price (2020-23) | Payload | Towing | Notes |
-|-------|------------------|---------|---------|-------|
-| **F-150** | ~$36K | 2,440 lbs | 13,500 lbs | BEST - reliable, Pro Power Onboard |
-| Silverado 1500 | ~$37K | Similar | Similar | Great alternative |
-| Ram 1500 | ~$36K | Slightly less | Slightly less | Best interior |
-| Ford Transit | ~$35K | 3,500-4,600 lbs | N/A | King of cargo space |
+| Truck | Max Payload | Max Towing | Bed Size | Price Range | Towing/$1K | Payload/$1K |
+|-------|-------------|------------|----------|-------------|-------------|-------------|
+| **Ford F-150** | 2,250 lbs | 13,000 lbs | 5.5-8.0 ft | $30-55K | 236 | 4.1 |
+| **Chevy Silverado 1500** | 2,200 lbs | 13,300 lbs | 5.75-8.0 ft | $30-52K | **266** | 4.4 |
+| **Ram 1500** | 2,300 lbs | 12,750 lbs | 5.7-8.0 ft | $30-52K | 255 | **4.6** |
+| **Toyota Tundra** | 1,940 lbs | 12,000 lbs | 5.5-8.1 ft | $35-55K | 218 | 3.5 |
+| **Nissan Titan** | 2,050 lbs | 11,500 lbs | 5.5-6.5 ft | $30-48K | 230 | 4.1 |
 
-**For Junk Removal:** F-150 all the way
+### 2500 Series (3/4-Ton) - Gas Only
 
----
-
-## Budget Used Trucks
-
-### Under $15K:
-- 2007-2010 F-150s: $6,500-9,000
-- 2006-2012 Silverados: $6,000-8,700
-- Toyota Tacomas: $8,000-12,500 (most reliable!)
-
-### Under $10K:
-- Older F-150s/Silverados (150-230K miles): $3,000-7,000
-- Expect to wrench
-
-### AVOID:
-- 2003-2008 F-150 5.4L (spark plug hell)
-- Salvage titles
+| Truck | Max Payload | Max Towing | Bed Size | Price Range | Towing/$1K | Payload/$1K |
+|-------|-------------|------------|----------|-------------|-------------|-------------|
+| **Ford F-250** | 4,300 lbs | 15,000 lbs | 6.75-8.0 ft | $36-55K | 300 | **8.6** |
+| **Chevy Silverado 2500** | 4,000 lbs | 16,500 lbs | 6.75-8.0 ft | $36-54K | **305** | 7.4 |
+| **Ram 2500** | 4,200 lbs | 17,000 lbs | 6.4-8.0 ft | $36-53K | **321** | 7.9 |
 
 ---
 
-## Rental Platforms
+## Key Findings
 
-### Turo:
-- Fee: 15-25% of rental
-- Insurance included
-- You set rates, approve bookings
-- Work trucks rent: $150-300/week
+### Best Value - 1500s:
+- **Towing per dollar:** Silverado 1500 wins (266 lbs/$1K)
+- **Payload per dollar:** Ram 1500 wins (4.6 lbs/$1K)
 
-### Passive Income:
-- Realistic: $200-500/month after fees/maintenance
-- Active: $800-1,000/month
+### Best Value - 2500s (Gas):
+- **Towing per dollar:** Ram 2500 wins (321 lbs/$1K)
+- **Payload per dollar:** F-250 wins (8.6 lbs/$1K)
 
 ---
 
-## Recommendations
+## Previous Recommendations (Still Valid)
 
-### For Junk Removal Business:
-- **Buy:** 2020-2023 F-150 XLT ~$36K
-- Why: Best payload, reliable, easy parts, good resale
+### For Junk Removal ($38K budget):
+1. **Ford Transit 250** - best payload-to-price ratio
+2. **Mercedes Sprinter 2500** - premium, best resale
+
+### For Service Business:
+1. **Ford Transit 250** - cargo/crew
+2. **F-150 XLT** - versatility
 
 ### For Rental Income:
-- **Buy:** Older F-150/Silverado ($10-15K)
-- **Rent on:** Turo
-- **Passive income:** $200-500/month realistic
+1. **Mercedes Sprinter 2500** - resale + income
+2. **Ford Transit 350** - larger capacity
 
 ---
 
-*Report compiled: March 1, 2026*
+## Updated Rankings with Light Trucks
+
+### For Junk Removal (with F-250 option):
+1. **Ford Transit 250** - enclosed, high payload
+2. **Ford F-250** - gas, max towing, bed
+3. **Ram 2500** - best towing per dollar
+
+### For Work/Service:
+1. **F-150** - versatile, best value
+2. **Ram 1500** - best payload per dollar
+3. **F-250** - heavy duty when needed
+
+---
+
+*Updated: March 1, 2026*
