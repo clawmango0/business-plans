@@ -197,6 +197,34 @@ Thanks so much!
 
 ---
 
+## Objection Handling Scripts
+
+### "This isn't what I expected"
+
+> "I totally get it — let me make sure we get this right for you. What specifically weren't you expecting? I'll add a free edit to make sure it meets your unique needs. That's what I'm here for!"
+
+### "It's too expensive"
+
+> "I understand budget is a concern. If the Premium tier isn't working for you right now, I can offer you the Standard tier at today's price — same quality template, just without the custom video walkthrough. Would that work better for you?"
+
+### "I need it faster"
+
+> "Rush orders are no problem! I can priority this for you — delivery in 24 hours instead of 3 days. Just let me know and I'll make it happen."
+
+### "The template doesn't fit my industry"
+
+> "No worries at all — that's an easy fix! I'll customize it specifically for your industry at no extra charge. Can you tell me a bit more about your business so I can make it perfect?"
+
+### "I want a refund"
+
+> "I'm really sorry this didn't work out as you'd hoped. Before we process a refund, let me make one final adjustment — I'll add a free edit to ensure it meets your unique needs. If it's still not right, I'm happy to process the refund. What would you prefer?"
+
+### "You're taking too long"
+
+> "I apologize for the delay — let me get this to you right now. I'll priority your order and have it to you within the next few hours. Thanks for your patience!"
+
+---
+
 ## Notes for SOPCentral
 
 - Always mention video tutorial if purchased
