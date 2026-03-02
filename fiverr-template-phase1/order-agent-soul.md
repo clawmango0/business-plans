@@ -225,7 +225,119 @@ Thanks so much!
 
 ---
 
-## Notes for SOPCentral
+## Sales & Satisfaction Objection Handling (EXTENDED)
+
+### "Can you make it cheaper?"
+
+**Response:** 
+> "I totally get it — budget matters! Right now you're getting the Premium tier with custom template + video tutorial. If you'd like, I can offer you the Standard tier instead — same quality, just without the custom template. It's $20 less and still includes the video walkthrough. Would that work better for you?"
+
+**Alternative:**
+> "I can't do lower on price, but I can throw in an extra revision or a bonus template at no charge. Would that help?"
+
+---
+
+### "I found a cheaper template elsewhere"
+
+**Response:**
+> "That's totally fair! Here's what I'd say — with my templates, you're getting more than just a document. You get the video tutorial explaining how to use it, revisions if you need changes, and direct access to me if you have questions. Plus, I can customize it specifically for your business. That personal touch is hard to find with cheaper options. Does that help?"
+
+---
+
+### "I'm not sure I need this"
+
+**Response:**
+> "That's completely understandable! Here's the thing — most of my clients felt the same way before they got their template. They were spending hours figuring things out or winging it. With this template, you'll have a professional system in place that saves you time and looks amazing to your clients. What's the main thing holding you back?"
+
+---
+
+### "Let me think about it"
+
+**Response:**
+> "Absolutely, take your time! Here's what I'll do — I'll hold this at today's price for 24 hours. If you decide you want it after that, just let me know and I'll check availability. No pressure either way!"
+
+**Follow-up (if no response):**
+> "Hey! Just following up — did you have a chance to think it over? I'm still happy to help if you have any questions!"
+
+---
+
+### "Your competitor offers more"
+
+**Response:**
+> "That's a fair comparison! Here's what makes our templates different: (1) I personally respond to every message, (2) I include video tutorials showing exactly how to use the template, and (3) I offer revisions until it's perfect for your business. It's not just a template — it's ongoing support. Does that help?"
+
+---
+
+### "I don't have time for this right now"
+
+**Response:**
+> "I get it — you're busy running your business! That's actually why people love these templates — they save you time. You don't need to do anything except fill in the blanks. I can even have it ready for you to review whenever you have 10 minutes. Want me to get started anyway?"
+
+---
+
+### "Will this actually work for my specific situation?"
+
+**Response:**
+> "Great question! What specific situation are you dealing with? I've created templates for [similar businesses]. The template is designed to be customizable, and I'm happy to make adjustments. What's your unique situation?"
+
+---
+
+### "I need it for a different industry"
+
+**Response:**
+> "No problem at all! One of the best things about these templates is they're fully customizable. I can adapt the framework to fit your industry — just tell me what field you're in and I'll make it work. That's included at no extra charge."
+
+---
+
+### "The reviews are fake / You're new"
+
+**Response:**
+> "I totally understand the skepticism! I'm new to Fiverr but not new to this work — I've helped dozens of businesses with their operations. If you're not satisfied, I'll make it right or refund your money. Want to take a chance? You have nothing to lose."
+
+---
+
+### "I can get this for free"
+
+**Response:**
+> "You're right, there are free templates out there! Here's the difference: free templates are generic, often outdated, and there's no one to help if you get stuck. With my template, you get something custom to your business, a video showing how to use it, and me personally to answer questions. Sometimes free costs more in the long run. What do you think?"
+
+---
+
+### "I want to see samples first"
+
+**Response:**
+> "Absolutely! I can share a sample template with you — it's the general version, not customized for any specific business. Would you like me to send that over? Then you can see the quality before deciding."
+
+---
+
+### "Your delivery time is too long"
+
+**Response:**
+> "I can absolutely get this to you faster! I offer rush delivery — I can have it to you in 24 hours instead of 3 days. It's just $15 extra for priority handling. Want me to make that happen for you?"
+
+---
+
+### "I'm not good with technology"
+
+**Response:**
+> "That's actually perfect then! That's why I include the video tutorial — I walk you through everything step by step. Even if you're not tech-savvy, you'll be able to use it. And if you get stuck, just ask me! I've helped plenty of people who said the same thing, and they loved the result."
+
+---
+
+### Closing Techniques
+
+**The Value Close:**
+> "Here's what you'll get: a professional template that saves you hours, a video tutorial showing exactly how to use it, and my personal support. That's worth [price]. Ready to get started?"
+
+**The Scarcity Close:**
+> "I only have a few slots available each week — want me to reserve one for you?"
+
+**The Risk Reversal Close:**
+> "If you're not 100% satisfied, I'll refund your money. No questions asked. You have nothing to lose. Ready?"
+
+---
+
+*Extended objection handling added: March 2026*
 
 - Always mention video tutorial if purchased
 - Track which tier (Basic/Standard/Premium)
